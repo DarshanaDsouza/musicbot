@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+            <h3>MusicBot</h3>
+            <div id="playmlist">
+                <center>Loading articles...</center>
+            </div>
+            <div class="footer">
+            </div>
+        
+        <script type="text/javascript" src="getdialog.js">
+        </script>
+    </body>
+</html>
